@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 🎓 B.E. in Information Science (MVJ College of Engineering, Bengaluru) | Expected Jan 2026  
-💡 Passionate about AI, Machine Learning, and building intelligent, real-world solutions  
+💡 Passionate about AI, Machine Learning, and building intelligent, real-world solution
 
 ---
 
