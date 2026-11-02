@@ -11,24 +11,22 @@
   <a href="https://drive.google.com/file/d/1tZz5K0yBircwrr6RDgOqa1Mn4eJ6ytje/view?usp=sharing"><b>Resume ↗</b></a>
 </p>
 
-## 👋 About me
+### About
 
-I build LLM systems that do real work and can show the evidence behind every answer. At **Fortinet R&D** I'm building a multi-agent platform that investigates Kubernetes incidents over live telemetry; it cut NOC time-to-root-cause from about 10 minutes to under 3.
+I build LLM systems that do real work and can show the evidence behind every answer. I'm an R&D intern at **Fortinet**, building a multi-agent platform that investigates Kubernetes incidents over live telemetry; it cut time-to-root-cause from about ten minutes to under three.
 
-- 🧠 **Focus:** agent orchestration (LangGraph, MCP), RAG, grounding and evals, LLM observability
-- 🎓 **Education:** B.E. Information Science, MVJ College of Engineering, Bengaluru (2022–2026, CGPA 8.5)
-- 💬 **Ask me about:** multi-agent design, self-hosted LLMs with Ollama, tracing agents with OpenTelemetry
+B.E. Information Science, MVJ College of Engineering, 2026. **Open to full-time AI/ML engineering roles.**
 
-## 💼 Experience
+### Experience
 
-**R&D Intern · Fortinet** · *Mar 2026 – present · Bengaluru*  
-Multi-agent root-cause analysis for Kubernetes. A LangGraph orchestrator routes each incident to five domain agents (Kubernetes, Prometheus, Elasticsearch, Kafka, FortiMonitor) that pull live evidence through MCP tools and return ranked verdicts. Every claim is checked against a ChromaDB knowledge base before it reaches an engineer, the agent graph is traced with OpenTelemetry in Arize Phoenix, and all inference runs on self-hosted Ollama models.
+**Fortinet** &nbsp;R&D Intern &nbsp;<sub>MAR 2026 – PRESENT · BENGALURU</sub>  
+A LangGraph orchestrator and five domain agents gather live evidence over MCP, every claim is grounded against a ChromaDB knowledge base, and the whole graph is traced with OpenTelemetry. Fully self-hosted on Ollama.
 
-**Data Science Intern · AI4SEE** · *Jan – Mar 2026 · Remote*  
-Built and evaluated ML models end to end, and turned experiment notebooks into reproducible, deployable training scripts.
+**AI4SEE** &nbsp;Data Science Intern &nbsp;<sub>JAN – MAR 2026 · REMOTE</sub>  
+End-to-end ML models, from experiment notebooks to reproducible, deployable training pipelines.
 
-**AI/ML Intern · InternPe** · *Jul – Aug 2025 · Remote*  
-FAISS semantic search and clustering over 500+ QA test cases that flags near-duplicates automatically, cutting manual review by about 70%.
+**InternPe** &nbsp;AI/ML Intern &nbsp;<sub>JUL – AUG 2025 · REMOTE</sub>  
+FAISS semantic search over 500+ QA test cases that flags near-duplicates, cutting manual review by about 70%.
 
 ## 🚀 Featured projects
 
