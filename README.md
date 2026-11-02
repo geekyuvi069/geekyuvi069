@@ -117,18 +117,17 @@ Day-ahead power-buying tool on Elexon data: shows the wind forecast that was ava
 
 <img alt="Docker, Kubernetes, Kafka, Elasticsearch, Prometheus, Grafana, Linux, GitHub Actions, Git" src="https://skillicons.dev/icons?i=docker,kubernetes,kafka,elasticsearch,prometheus,grafana,linux,githubactions,git&perline=12">
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=geekyuvi069&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=geekyuvi069&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=geekyuvi069&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 📈 GitHub activity
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=geekyuvi069&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img width="100%" alt="3D contribution calendar with yearly totals and top languages" src="https://raw.githubusercontent.com/geekyuvi069/geekyuvi069/output/profile-night-view.svg">
+</p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/geekyuvi069/geekyuvi069/output/snake-dark.svg">
+    <img width="100%" alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/geekyuvi069/geekyuvi069/output/snake.svg">
+  </picture>
+</p>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=geekyuvi069&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center"><sub>Contribution graphics regenerate daily with <a href="https://github.com/geekyuvi069/geekyuvi069/actions/workflows/profile-art.yml">GitHub Actions</a>.</sub></p>
