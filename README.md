@@ -25,21 +25,24 @@
 
 
 
-🎓 B.E. in Information Science (MVJ College of Engineering, Bengaluru) | Expected Jan 2026  
-💡 Passionate about AI, Machine Learning, and building intelligent, real-world solution
+## 👋 About me
 
----
+I build LLM systems that do real work and can show the evidence behind every answer. At **Fortinet R&D** I'm building a multi-agent platform that investigates Kubernetes incidents over live telemetry; it cut NOC time-to-root-cause from about 10 minutes to under 3.
 
-## 🚀 About Me  
-I’m a tech-driven student passionate about transforming ideas into impactful projects.  
-I love working with Python, SQL, and AI/ML frameworks to craft intelligent solutions, from real-time object detection to smart automation tools.  
+- 🧠 **Focus:** agent orchestration (LangGraph, MCP), RAG, grounding and evals, LLM observability
+- 🎓 **Education:** B.E. Information Science, MVJ College of Engineering, Bengaluru (2022–2026, CGPA 8.5)
+- 💬 **Ask me about:** multi-agent design, self-hosted LLMs with Ollama, tracing agents with OpenTelemetry
 
-- 🔭 Currently working on: **AI-powered test case generation & image compression systems**  
-- 🌱 Learning more about **Deep Learning, Cloud, and Generative AI**  
-- 💬 Ask me about: Python, Machine Learning, NLP, and Flask-based projects  
-- ⚡ Fun fact: I enjoy turning complex problems into simple, user-friendly solutions  
+## 💼 Experience
 
----
+**R&D Intern · Fortinet** · *Mar 2026 – present · Bengaluru*  
+Multi-agent root-cause analysis for Kubernetes. A LangGraph orchestrator routes each incident to five domain agents (Kubernetes, Prometheus, Elasticsearch, Kafka, FortiMonitor) that pull live evidence through MCP tools and return ranked verdicts. Every claim is checked against a ChromaDB knowledge base before it reaches an engineer, the agent graph is traced with OpenTelemetry in Arize Phoenix, and all inference runs on self-hosted Ollama models.
+
+**Data Science Intern · AI4SEE** · *Jan – Mar 2026 · Remote*  
+Built and evaluated ML models end to end, and turned experiment notebooks into reproducible, deployable training scripts.
+
+**AI/ML Intern · InternPe** · *Jul – Aug 2025 · Remote*  
+FAISS semantic search and clustering over 500+ QA test cases that flags near-duplicates automatically, cutting manual review by about 70%.
 
 ## 📌 Projects  
 - **[SpecTacular.AI](#)** – Smart Test Case Generator (Flask + FAISS + Tailwind)  
