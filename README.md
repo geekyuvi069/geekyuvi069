@@ -28,60 +28,25 @@ End-to-end ML models, from experiment notebooks to reproducible, deployable trai
 **InternPe** &nbsp;AI/ML Intern &nbsp;<sub>JUL – AUG 2025 · REMOTE</sub>  
 FAISS semantic search over 500+ QA test cases that flags near-duplicates, cutting manual review by about 70%.
 
-## 🚀 Featured projects
+### Selected work
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<samp>01</samp> &nbsp;**[MediAssist](https://github.com/geekyuvi069/CureLink)** &nbsp;<sub>FASTAPI · REACT · POSTGRESQL · GEMINI</sub>  
+An agentic appointment assistant: the LLM chooses tools to find doctors, book free slots, create Google Calendar events and alert doctors on Slack.
 
-**[MediAssist](https://github.com/geekyuvi069/CureLink)**<br>
-Agentic doctor-appointment assistant. The LLM decides when to search doctors, check free slots, create a Google Calendar event and alert the doctor on Slack.<br>
-`FastAPI` `React` `PostgreSQL` `Gemini`
+<samp>02</samp> &nbsp;**[LLM Response Evaluator](https://github.com/geekyuvi069/LLM-Evaluator)** &nbsp;<sub>PYTHON · FLASK · [LIVE ↗](https://llm-evaluator-ten.vercel.app)</sub>  
+Scores a chatbot's answer against its retrieved context for relevance, completeness and hallucination risk, plus latency and token cost.
 
-</td>
-<td width="50%" valign="top">
+<samp>03</samp> &nbsp;**[SpecTacular.AI](https://github.com/geekyuvi069/SmartSpec-AI-SpecTacular.AI-)** &nbsp;<sub>FAISS · TRANSFORMERS · FLASK</sub>  
+Turns requirement documents into traceable test cases, fully offline; clustering removed 85% of duplicate cases.
 
-**[LLM Response Evaluator](https://github.com/geekyuvi069/LLM-Evaluator)** · [live ↗](https://llm-evaluator-ten.vercel.app)<br>
-Scores a chatbot's answer against its retrieved RAG context for relevance, completeness and hallucination risk, plus latency and token cost.<br>
-`Python` `Flask` `LLM evals`
+<samp>04</samp> &nbsp;**[Anchor](https://github.com/geekyuvi069/Anchor)** &nbsp;<sub>PYTHON · OLLAMA · CLI</sub>  
+A local AI pair programmer for the terminal. Code never leaves the machine, every diff is validated before it lands, and undo is one command.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<samp>05</samp> &nbsp;**[PingMe](https://github.com/geekyuvi069/PingMe)** &nbsp;<sub>PYTHON · GEMINI</sub>  
+A productivity tracker that auto-categorises your day, sends mid-day nudges and weekly insights, and keeps a reading habit on track.
 
-**[SpecTacular.AI](https://github.com/geekyuvi069/SmartSpec-AI-SpecTacular.AI-)**<br>
-Turns requirement documents into traceable test cases, fully offline. Embeddings and FAISS match requirements; clustering removed 85% of duplicate cases.<br>
-`Python` `FAISS` `Transformers` `Flask`
-
-</td>
-<td width="50%" valign="top">
-
-**[Anchor](https://github.com/geekyuvi069/Anchor)**<br>
-Local AI pair programmer for the terminal. Runs on Ollama so code never leaves the machine, validates every diff before applying it, and undoes in one command.<br>
-`Python` `Ollama` `CLI`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[PingMe](https://github.com/geekyuvi069/PingMe)**<br>
-Productivity tracker with Gemini: auto-categorises your activity, sends mid-day nudges and weekly insights, and tracks reading habits for PDF and EPUB books.<br>
-`Python` `Gemini`
-
-</td>
-<td width="50%" valign="top">
-
-**[GB Wind Forecast Monitor](https://github.com/geekyuvi069/wf7kq)** · [live ↗](https://wf7kq.vercel.app)<br>
-Day-ahead power-buying tool on Elexon data: shows the wind forecast that was available at decision time, compares it with actual generation, and turns the error into a buying margin.<br>
-`Python` `Time series` `Energy data`
-
-</td>
-</tr>
-</table>
-
-**More:** [DocFlow API](https://github.com/geekyuvi069/DocuMind) (PDF classification and extraction) · [Hotel Guest Assistant](https://github.com/geekyuvi069/hotel-assistent) ([live](https://hotel-assistent.vercel.app)) · [NetMouse](https://github.com/geekyuvi069/netmouse) (Linux-to-Windows mouse bridge) · [UniScrape](https://github.com/geekyuvi069/UniScrape-Engine) (university course scraper)
+<samp>06</samp> &nbsp;**[GB Wind Forecast Monitor](https://github.com/geekyuvi069/wf7kq)** &nbsp;<sub>PYTHON · ELEXON DATA · [LIVE ↗](https://wf7kq.vercel.app)</sub>  
+Compares the wind forecast available at decision time with actual generation and turns the error into a day-ahead buying margin.
 
 ## 🛠️ Tech stack
 
