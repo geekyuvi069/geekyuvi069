@@ -20,11 +20,6 @@
 > [!NOTE]
 > **Open to full-time AI/ML Engineer roles** (2026 graduate, Bengaluru). I build agentic LLM systems end to end, from orchestration and retrieval to evals and tracing. [Resume](https://drive.google.com/file/d/1tZz5K0yBircwrr6RDgOqa1Mn4eJ6ytje/view?usp=sharing) · [geekyuvi069@gmail.com](mailto:geekyuvi069@gmail.com)
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
-
-
 ## 👋 About me
 
 I build LLM systems that do real work and can show the evidence behind every answer. At **Fortinet R&D** I'm building a multi-agent platform that investigates Kubernetes incidents over live telemetry; it cut NOC time-to-root-cause from about 10 minutes to under 3.
@@ -98,6 +93,29 @@ Day-ahead power-buying tool on Elexon data: shows the wind forecast that was ava
 </table>
 
 **More:** [DocFlow API](https://github.com/geekyuvi069/DocuMind) (PDF classification and extraction) · [Hotel Guest Assistant](https://github.com/geekyuvi069/hotel-assistent) ([live](https://hotel-assistent.vercel.app)) · [NetMouse](https://github.com/geekyuvi069/netmouse) (Linux-to-Windows mouse bridge) · [UniScrape](https://github.com/geekyuvi069/UniScrape-Engine) (university course scraper)
+
+## 🛠️ Tech stack
+
+**LLMs & agents**
+
+<p>
+  <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-7C3AED?style=for-the-badge&logo=langgraph&logoColor=white">
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-7C3AED?style=for-the-badge&logo=langchain&logoColor=white">
+  <img alt="Model Context Protocol" src="https://img.shields.io/badge/MCP-7C3AED?style=for-the-badge&logo=modelcontextprotocol&logoColor=white">
+  <img alt="Ollama" src="https://img.shields.io/badge/Ollama-7C3AED?style=for-the-badge&logo=ollama&logoColor=white">
+  <img alt="Gemini" src="https://img.shields.io/badge/Gemini-7C3AED?style=for-the-badge&logo=googlegemini&logoColor=white">
+  <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging_Face-7C3AED?style=for-the-badge&logo=huggingface&logoColor=white">
+  <img alt="FAISS" src="https://img.shields.io/badge/FAISS-7C3AED?style=for-the-badge&logo=meta&logoColor=white">
+  <img alt="OpenTelemetry" src="https://img.shields.io/badge/OpenTelemetry-7C3AED?style=for-the-badge&logo=opentelemetry&logoColor=white">
+</p>
+
+**Languages, ML & backend**
+
+<img alt="Python, TypeScript, JavaScript, PyTorch, TensorFlow, scikit-learn, FastAPI, Flask, React, PostgreSQL, MySQL, MongoDB" src="https://skillicons.dev/icons?i=py,ts,js,pytorch,tensorflow,sklearn,fastapi,flask,react,postgres,mysql,mongodb&perline=12">
+
+**Infra & observability**
+
+<img alt="Docker, Kubernetes, Kafka, Elasticsearch, Prometheus, Grafana, Linux, GitHub Actions, Git" src="https://skillicons.dev/icons?i=docker,kubernetes,kafka,elasticsearch,prometheus,grafana,linux,githubactions,git&perline=12">
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=geekyuvi069&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
