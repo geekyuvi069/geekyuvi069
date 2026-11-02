@@ -44,20 +44,60 @@ Built and evaluated ML models end to end, and turned experiment notebooks into r
 **AI/ML Intern · InternPe** · *Jul – Aug 2025 · Remote*  
 FAISS semantic search and clustering over 500+ QA test cases that flags near-duplicates automatically, cutting manual review by about 70%.
 
-## 📌 Projects  
-- **[SpecTacular.AI](#)** – Smart Test Case Generator (Flask + FAISS + Tailwind)  
-- **Real-Time Object Detection for Visually Impaired** – YOLO-based wearable assistive system  
-- **Fake News Detection** – SVM & LSTM pipeline for misinformation filtering  
-- **Sentiment Analysis** – NLP + LSTM-based text classification  
-- **Image Compressor (ML & DL)** – Autoencoders + PCA for high-quality compression  
+## 🚀 Featured projects
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 🎓 Certifications  
-- Data Analyst Certification  
-- Deloitte Australia – Data Analytics Job Simulation  
-- Tata – GenAI Powered Data Analytics Job Simulation  
-- AWS Educate – Introduction to Cloud 101  
+**[MediAssist](https://github.com/geekyuvi069/CureLink)**<br>
+Agentic doctor-appointment assistant. The LLM decides when to search doctors, check free slots, create a Google Calendar event and alert the doctor on Slack.<br>
+`FastAPI` `React` `PostgreSQL` `Gemini`
+
+</td>
+<td width="50%" valign="top">
+
+**[LLM Response Evaluator](https://github.com/geekyuvi069/LLM-Evaluator)** · [live ↗](https://llm-evaluator-ten.vercel.app)<br>
+Scores a chatbot's answer against its retrieved RAG context for relevance, completeness and hallucination risk, plus latency and token cost.<br>
+`Python` `Flask` `LLM evals`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[SpecTacular.AI](https://github.com/geekyuvi069/SmartSpec-AI-SpecTacular.AI-)**<br>
+Turns requirement documents into traceable test cases, fully offline. Embeddings and FAISS match requirements; clustering removed 85% of duplicate cases.<br>
+`Python` `FAISS` `Transformers` `Flask`
+
+</td>
+<td width="50%" valign="top">
+
+**[Anchor](https://github.com/geekyuvi069/Anchor)**<br>
+Local AI pair programmer for the terminal. Runs on Ollama so code never leaves the machine, validates every diff before applying it, and undoes in one command.<br>
+`Python` `Ollama` `CLI`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[PingMe](https://github.com/geekyuvi069/PingMe)**<br>
+Productivity tracker with Gemini: auto-categorises your activity, sends mid-day nudges and weekly insights, and tracks reading habits for PDF and EPUB books.<br>
+`Python` `Gemini`
+
+</td>
+<td width="50%" valign="top">
+
+**[GB Wind Forecast Monitor](https://github.com/geekyuvi069/wf7kq)** · [live ↗](https://wf7kq.vercel.app)<br>
+Day-ahead power-buying tool on Elexon data: shows the wind forecast that was available at decision time, compares it with actual generation, and turns the error into a buying margin.<br>
+`Python` `Time series` `Energy data`
+
+</td>
+</tr>
+</table>
+
+**More:** [DocFlow API](https://github.com/geekyuvi069/DocuMind) (PDF classification and extraction) · [Hotel Guest Assistant](https://github.com/geekyuvi069/hotel-assistent) ([live](https://hotel-assistent.vercel.app)) · [NetMouse](https://github.com/geekyuvi069/netmouse) (Linux-to-Windows mouse bridge) · [UniScrape](https://github.com/geekyuvi069/UniScrape-Engine) (university course scraper)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=geekyuvi069&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
