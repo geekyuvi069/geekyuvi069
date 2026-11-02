@@ -1,14 +1,16 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/geekyuvi069/geekyuvi069/main/assets/header-dark.svg">
-  <img width="100%" alt="Yuvraj Kumar, AI/ML Engineer building multi-agent LLM systems" src="https://raw.githubusercontent.com/geekyuvi069/geekyuvi069/main/assets/header-light.svg">
-</picture>
+<p align="center">
+  <img src="assets/hero.svg" width="100%" alt="Yuvraj Kumar, AI/ML Engineer building multi-agent LLM systems. Open to full-time AI/ML roles.">
+</p>
 
-<p>
-  <img align="right" alt="Profile views" src="https://komarev.com/ghpvc/?username=geekyuvi069&label=views&color=59636e&style=flat">
-  <a href="https://my-portfolio-yuvi.vercel.app"><b>Portfolio</b></a> &nbsp;/&nbsp;
-  <a href="https://linkedin.com/in/yuvraj-kumar-711393264"><b>LinkedIn</b></a> &nbsp;/&nbsp;
-  <a href="mailto:geekyuvi069@gmail.com"><b>Email</b></a> &nbsp;/&nbsp;
-  <a href="https://drive.google.com/file/d/1tZz5K0yBircwrr6RDgOqa1Mn4eJ6ytje/view?usp=sharing"><b>Resume ↗</b></a>
+<p align="center">
+  <a href="https://my-portfolio-yuvi.vercel.app"><img src="assets/btn-portfolio.svg" width="195" alt="Portfolio"></a>
+  <a href="https://linkedin.com/in/yuvraj-kumar-711393264"><img src="assets/btn-linkedin.svg" width="195" alt="LinkedIn"></a>
+  <a href="mailto:geekyuvi069@gmail.com"><img src="assets/btn-email.svg" width="195" alt="Email"></a>
+  <a href="https://drive.google.com/file/d/1tZz5K0yBircwrr6RDgOqa1Mn4eJ6ytje/view?usp=sharing"><img src="assets/btn-resume.svg" width="195" alt="Resume"></a>
+</p>
+
+<p align="center">
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=geekyuvi069&label=PROFILE%20VIEWS&color=c026d3&style=for-the-badge">
 </p>
 
 ### About
