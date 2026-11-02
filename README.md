@@ -13,51 +13,30 @@
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=geekyuvi069&label=PROFILE%20VIEWS&color=c026d3&style=for-the-badge">
 </p>
 
-### About
+<p align="center"><img src="assets/about.svg" width="100%" alt="About: I build LLM systems that do real work and can show the evidence behind every answer. R&amp;D intern at Fortinet building a multi-agent platform for Kubernetes incidents. B.E. Information Science 2026, Bengaluru."></p>
 
-I build LLM systems that do real work and can show the evidence behind every answer. I'm an R&D intern at **Fortinet**, building a multi-agent platform that investigates Kubernetes incidents over live telemetry; it cut time-to-root-cause from about ten minutes to under three.
+<p align="center"><img src="assets/experience.svg" width="100%" alt="Experience: R&amp;D Intern at Fortinet (Mar 2026 to present), Data Science Intern at AI4SEE (Jan to Mar 2026), AI/ML Intern at InternPe (Jul to Aug 2025)."></p>
 
-B.E. Information Science, MVJ College of Engineering, 2026. **Open to full-time AI/ML engineering roles.**
+<p align="center"><img src="assets/title-projects.svg" width="100%" alt="Selected work"></p>
 
-### Experience
+<p align="center">
+  <a href="https://github.com/geekyuvi069/CureLink"><img src="assets/card-mediassist.svg" width="49%" alt="MediAssist"></a>
+  <a href="https://github.com/geekyuvi069/LLM-Evaluator"><img src="assets/card-llm-evaluator.svg" width="49%" alt="LLM Evaluator"></a>
+</p>
 
-**Fortinet** &nbsp;R&D Intern &nbsp;<sub>MAR 2026 – PRESENT · BENGALURU</sub>  
-A LangGraph orchestrator and five domain agents gather live evidence over MCP, every claim is grounded against a ChromaDB knowledge base, and the whole graph is traced with OpenTelemetry. Fully self-hosted on Ollama.
+<p align="center">
+  <a href="https://github.com/geekyuvi069/SmartSpec-AI-SpecTacular.AI-"><img src="assets/card-spectacular.svg" width="49%" alt="SpecTacular.AI"></a>
+  <a href="https://github.com/geekyuvi069/Anchor"><img src="assets/card-anchor.svg" width="49%" alt="Anchor"></a>
+</p>
 
-**AI4SEE** &nbsp;Data Science Intern &nbsp;<sub>JAN – MAR 2026 · REMOTE</sub>  
-End-to-end ML models, from experiment notebooks to reproducible, deployable training pipelines.
+<p align="center">
+  <a href="https://github.com/geekyuvi069/PingMe"><img src="assets/card-pingme.svg" width="49%" alt="PingMe"></a>
+  <a href="https://github.com/geekyuvi069/wf7kq"><img src="assets/card-wind-forecast.svg" width="49%" alt="GB Wind Forecast Monitor"></a>
+</p>
 
-**InternPe** &nbsp;AI/ML Intern &nbsp;<sub>JUL – AUG 2025 · REMOTE</sub>  
-FAISS semantic search over 500+ QA test cases that flags near-duplicates, cutting manual review by about 70%.
+<p align="center"><img src="assets/stack.svg" width="100%" alt="Tech stack: LangGraph, LangChain, MCP, Ollama, Gemini, Hugging Face, Python, PyTorch, TensorFlow, scikit-learn, FastAPI, Flask, TypeScript, React, PostgreSQL, MongoDB, Docker, Kubernetes, Kafka, Elasticsearch, Linux, OpenTelemetry, Prometheus, Grafana"></p>
 
-### Selected work
-
-<samp>01</samp> &nbsp;**[MediAssist](https://github.com/geekyuvi069/CureLink)** &nbsp;<sub>FASTAPI · REACT · POSTGRESQL · GEMINI</sub>  
-An agentic appointment assistant: the LLM chooses tools to find doctors, book free slots, create Google Calendar events and alert doctors on Slack.
-
-<samp>02</samp> &nbsp;**[LLM Response Evaluator](https://github.com/geekyuvi069/LLM-Evaluator)** &nbsp;<sub>PYTHON · FLASK · [LIVE ↗](https://llm-evaluator-ten.vercel.app)</sub>  
-Scores a chatbot's answer against its retrieved context for relevance, completeness and hallucination risk, plus latency and token cost.
-
-<samp>03</samp> &nbsp;**[SpecTacular.AI](https://github.com/geekyuvi069/SmartSpec-AI-SpecTacular.AI-)** &nbsp;<sub>FAISS · TRANSFORMERS · FLASK</sub>  
-Turns requirement documents into traceable test cases, fully offline; clustering removed 85% of duplicate cases.
-
-<samp>04</samp> &nbsp;**[Anchor](https://github.com/geekyuvi069/Anchor)** &nbsp;<sub>PYTHON · OLLAMA · CLI</sub>  
-A local AI pair programmer for the terminal. Code never leaves the machine, every diff is validated before it lands, and undo is one command.
-
-<samp>05</samp> &nbsp;**[PingMe](https://github.com/geekyuvi069/PingMe)** &nbsp;<sub>PYTHON · GEMINI</sub>  
-A productivity tracker that auto-categorises your day, sends mid-day nudges and weekly insights, and keeps a reading habit on track.
-
-<samp>06</samp> &nbsp;**[GB Wind Forecast Monitor](https://github.com/geekyuvi069/wf7kq)** &nbsp;<sub>PYTHON · ELEXON DATA · [LIVE ↗](https://wf7kq.vercel.app)</sub>  
-Compares the wind forecast available at decision time with actual generation and turns the error into a day-ahead buying margin.
-
-### Stack
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/geekyuvi069/geekyuvi069/main/assets/stack-dark.svg">
-  <img width="100%" alt="Tech stack: LangGraph, LangChain, MCP, Ollama, Gemini, Hugging Face, Python, PyTorch, TensorFlow, scikit-learn, FastAPI, Flask, TypeScript, React, PostgreSQL, MongoDB, Docker, Kubernetes, Kafka, Elasticsearch, Linux, OpenTelemetry, Prometheus, Grafana" src="https://raw.githubusercontent.com/geekyuvi069/geekyuvi069/main/assets/stack-light.svg">
-</picture>
-
-### Activity
+<p align="center"><img src="https://raw.githubusercontent.com/geekyuvi069/geekyuvi069/output/stats.svg" width="100%" alt="Live GitHub activity, regenerated daily"></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/geekyuvi069/geekyuvi069/output/snake-dark.svg">
