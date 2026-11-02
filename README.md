@@ -1,24 +1,15 @@
-<p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Yuvraj Kumar, AI/ML Engineer building multi-agent LLM systems">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/geekyuvi069/geekyuvi069/main/assets/header-dark.svg">
+  <img width="100%" alt="Yuvraj Kumar, AI/ML Engineer building multi-agent LLM systems" src="https://raw.githubusercontent.com/geekyuvi069/geekyuvi069/main/assets/header-light.svg">
+</picture>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=720&lines=Building+multi-agent+LLM+systems+with+LangGraph+%2B+MCP;R%26D+Intern+%40+Fortinet%3A+Kubernetes+root-cause+agents;RAG+%C2%B7+grounding+%C2%B7+evals+%C2%B7+LLM+observability;Open+to+full-time+AI%2FML+Engineer+roles">
-    <img alt="Building multi-agent LLM systems with LangGraph and MCP" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=6D28D9&center=true&vCenter=true&width=720&lines=Building+multi-agent+LLM+systems+with+LangGraph+%2B+MCP;R%26D+Intern+%40+Fortinet%3A+Kubernetes+root-cause+agents;RAG+%C2%B7+grounding+%C2%B7+evals+%C2%B7+LLM+observability;Open+to+full-time+AI%2FML+Engineer+roles">
-  </picture>
+<p>
+  <img align="right" alt="Profile views" src="https://komarev.com/ghpvc/?username=geekyuvi069&label=views&color=59636e&style=flat">
+  <a href="https://my-portfolio-yuvi.vercel.app"><b>Portfolio</b></a> &nbsp;/&nbsp;
+  <a href="https://linkedin.com/in/yuvraj-kumar-711393264"><b>LinkedIn</b></a> &nbsp;/&nbsp;
+  <a href="mailto:geekyuvi069@gmail.com"><b>Email</b></a> &nbsp;/&nbsp;
+  <a href="https://drive.google.com/file/d/1tZz5K0yBircwrr6RDgOqa1Mn4eJ6ytje/view?usp=sharing"><b>Resume ↗</b></a>
 </p>
-
-<p align="center">
-  <a href="https://my-portfolio-yuvi.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="https://linkedin.com/in/yuvraj-kumar-711393264"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMSAxIDAtNC4xMjUgMi4wNjIgMi4wNjIgMCAwIDEgMCA0LjEyNXpNNy4xMTkgMjAuNDUySDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B"></a>
-  <a href="mailto:geekyuvi069@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://drive.google.com/file/d/1tZz5K0yBircwrr6RDgOqa1Mn4eJ6ytje/view?usp=sharing"><img alt="Resume" src="https://img.shields.io/badge/Resume-7C3AED?style=for-the-badge&logo=googledrive&logoColor=white"></a>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=geekyuvi069&label=Profile%20views&color=0e7490&style=for-the-badge">
-</p>
-
-> [!NOTE]
-> **Open to full-time AI/ML Engineer roles** (2026 graduate, Bengaluru). I build agentic LLM systems end to end, from orchestration and retrieval to evals and tracing. [Resume](https://drive.google.com/file/d/1tZz5K0yBircwrr6RDgOqa1Mn4eJ6ytje/view?usp=sharing) · [geekyuvi069@gmail.com](mailto:geekyuvi069@gmail.com)
 
 ## 👋 About me
 
