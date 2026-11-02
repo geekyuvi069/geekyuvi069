@@ -48,40 +48,16 @@ A productivity tracker that auto-categorises your day, sends mid-day nudges and 
 <samp>06</samp> &nbsp;**[GB Wind Forecast Monitor](https://github.com/geekyuvi069/wf7kq)** &nbsp;<sub>PYTHON · ELEXON DATA · [LIVE ↗](https://wf7kq.vercel.app)</sub>  
 Compares the wind forecast available at decision time with actual generation and turns the error into a day-ahead buying margin.
 
-## 🛠️ Tech stack
+### Stack
 
-**LLMs & agents**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/geekyuvi069/geekyuvi069/main/assets/stack-dark.svg">
+  <img width="100%" alt="Tech stack: LangGraph, LangChain, MCP, Ollama, Gemini, Hugging Face, Python, PyTorch, TensorFlow, scikit-learn, FastAPI, Flask, TypeScript, React, PostgreSQL, MongoDB, Docker, Kubernetes, Kafka, Elasticsearch, Linux, OpenTelemetry, Prometheus, Grafana" src="https://raw.githubusercontent.com/geekyuvi069/geekyuvi069/main/assets/stack-light.svg">
+</picture>
 
-<p>
-  <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-7C3AED?style=for-the-badge&logo=langgraph&logoColor=white">
-  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-7C3AED?style=for-the-badge&logo=langchain&logoColor=white">
-  <img alt="Model Context Protocol" src="https://img.shields.io/badge/MCP-7C3AED?style=for-the-badge&logo=modelcontextprotocol&logoColor=white">
-  <img alt="Ollama" src="https://img.shields.io/badge/Ollama-7C3AED?style=for-the-badge&logo=ollama&logoColor=white">
-  <img alt="Gemini" src="https://img.shields.io/badge/Gemini-7C3AED?style=for-the-badge&logo=googlegemini&logoColor=white">
-  <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging_Face-7C3AED?style=for-the-badge&logo=huggingface&logoColor=white">
-  <img alt="FAISS" src="https://img.shields.io/badge/FAISS-7C3AED?style=for-the-badge&logo=meta&logoColor=white">
-  <img alt="OpenTelemetry" src="https://img.shields.io/badge/OpenTelemetry-7C3AED?style=for-the-badge&logo=opentelemetry&logoColor=white">
-</p>
+### Activity
 
-**Languages, ML & backend**
-
-<img alt="Python, TypeScript, JavaScript, PyTorch, TensorFlow, scikit-learn, FastAPI, Flask, React, PostgreSQL, MySQL, MongoDB" src="https://skillicons.dev/icons?i=py,ts,js,pytorch,tensorflow,sklearn,fastapi,flask,react,postgres,mysql,mongodb&perline=12">
-
-**Infra & observability**
-
-<img alt="Docker, Kubernetes, Kafka, Elasticsearch, Prometheus, Grafana, Linux, GitHub Actions, Git" src="https://skillicons.dev/icons?i=docker,kubernetes,kafka,elasticsearch,prometheus,grafana,linux,githubactions,git&perline=12">
-
-## 📈 GitHub activity
-
-<p align="center">
-  <img width="100%" alt="3D contribution calendar with yearly totals and top languages" src="https://raw.githubusercontent.com/geekyuvi069/geekyuvi069/output/profile-night-view.svg">
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/geekyuvi069/geekyuvi069/output/snake-dark.svg">
-    <img width="100%" alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/geekyuvi069/geekyuvi069/output/snake.svg">
-  </picture>
-</p>
-
-<p align="center"><sub>Contribution graphics regenerate daily with <a href="https://github.com/geekyuvi069/geekyuvi069/actions/workflows/profile-art.yml">GitHub Actions</a>.</sub></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/geekyuvi069/geekyuvi069/output/snake-dark.svg">
+  <img width="100%" alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/geekyuvi069/geekyuvi069/output/snake.svg">
+</picture>
